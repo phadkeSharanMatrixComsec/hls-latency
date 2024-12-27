@@ -57,7 +57,7 @@ hlsMuxerCloseAfter: 60s
 paths:
   # example:
   my_camera:
-    source: rtsp://admin:admin@192.168.111.126/unicaststream/1
+    source: rtsp://admin:admin@192.168.101.99/unicaststream/1
 
   # Settings under path "all_others" are applied to all paths that
   # do not match another entry.
